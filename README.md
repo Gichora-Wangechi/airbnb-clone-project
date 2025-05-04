@@ -1,6 +1,34 @@
 # airbnb-clone-project
 
-## 2. Technology Stack
+## 2. Team Roles and Responsibilities
+
+### Business Analyst
+Responsible for gathering, analyzing, and documenting business requirements. Acts as a bridge between stakeholders and the development team to ensure the product meets business goals.
+
+### Product Owner
+Defines the product vision, prioritizes the backlog, and ensures the development team delivers value to the customer. Represents the voice of the user throughout the development process.
+
+### Project Manager
+Plans, coordinates, and monitors project progress. Ensures timelines, budgets, and resources are aligned with project goals and communicates status updates to stakeholders.
+
+### UI/UX Designer
+Designs intuitive and visually appealing user interfaces and experiences. Conducts user research, prototypes designs, and collaborates with developers to implement design solutions.
+
+### Software Architect
+Designs the system's overall structure, defines technical standards, and makes high-level design decisions to ensure scalability, security, and maintainability.
+
+### Software Developer
+Implements application features based on technical specifications. Writes clean, efficient, and testable code while collaborating closely with other developers and stakeholders.
+
+### Quality Assurance (QA)
+Ensures that the product meets quality standards through manual testing. Identifies bugs, validates functionality, and helps improve the overall product stability.
+
+### Test Automation Engineer
+Creates automated test scripts to validate application functionality quickly and reliably. Works closely with QA and developers to maintain a robust automated testing pipeline.
+
+### DevOps Engineer
+Manages deployment pipelines, cloud infrastructure, and system reliability. Ensures continuous integration and deployment processes run smoothly and securely.the 
+## 3. Technology Stack
 
 - **Django**: A high-level Python web framework used for building the RESTful API  
 - **Django REST Framework**: Provides tools for creating and managing RESTful APIs  
@@ -11,7 +39,7 @@
 - **Docker**: Containerization tool for consistent development and deployment environments  
 - **CI/CD Pipelines**: Automated pipelines for testing and deploying code changes  
 
-## 3. Database Design Overview
+## 4. Database Design Overview
 
 - **User Management**: Implement a secure system for user registration, authentication, and profile management  
 - **Property Management**: Develop features for property listing creation, updates, and retrieval  
@@ -20,7 +48,7 @@
 - **Review System**: Allow users to leave reviews and ratings for properties  
 - **Data Optimization**: Ensure efficient data retrieval and storage through database optimizations  
 
-## 4. Feature Breakdown
+## 5. Feature Breakdown
 
 - **User Management**: Secure registration, authentication, and profile management  
 - **Property Management**: Listing creation, updates, and retrieval  
@@ -29,7 +57,7 @@
 - **Review System**: Users can rate and review properties  
 - **Data Optimization**: Efficient queries and data handling  
 
-## 5. API Security Overview
+## 6. API Security Overview
 
 **Objective**: To understand the importance of securing backend APIs and outline the security measures used.
 
@@ -49,7 +77,7 @@
 - Ensures system reliability and trustworthiness  
 - Prevents malicious exploitation of resources
 
-## 6. CI/CD Pipeline Overview
+## 7. CI/CD Pipeline Overview
 
 **Continuous Integration (CI)**: The practice of automatically testing and integrating code changes as they are pushed to the repository.
 
