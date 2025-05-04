@@ -2,32 +2,33 @@
 
 ## 2. Team Roles and Responsibilities
 
-### Business Analyst
+**Business Analyst**
 Responsible for gathering, analyzing, and documenting business requirements. Acts as a bridge between stakeholders and the development team to ensure the product meets business goals.
 
-### Product Owner
+**Product Owner**
 Defines the product vision, prioritizes the backlog, and ensures the development team delivers value to the customer. Represents the voice of the user throughout the development process.
 
-### Project Manager
+**Project Manager**
 Plans, coordinates, and monitors project progress. Ensures timelines, budgets, and resources are aligned with project goals and communicates status updates to stakeholders.
 
-### UI/UX Designer
+**UI/UX Designer**
 Designs intuitive and visually appealing user interfaces and experiences. Conducts user research, prototypes designs, and collaborates with developers to implement design solutions.
 
-### Software Architect
+**Software Architect**
 Designs the system's overall structure, defines technical standards, and makes high-level design decisions to ensure scalability, security, and maintainability.
 
-### Software Developer
+**Software Developer**
 Implements application features based on technical specifications. Writes clean, efficient, and testable code while collaborating closely with other developers and stakeholders.
 
-### Quality Assurance (QA)
+**Quality Assurance (QA)**
 Ensures that the product meets quality standards through manual testing. Identifies bugs, validates functionality, and helps improve the overall product stability.
 
-### Test Automation Engineer
+**Test Automation Engineer**
 Creates automated test scripts to validate application functionality quickly and reliably. Works closely with QA and developers to maintain a robust automated testing pipeline.
 
-### DevOps Engineer
-Manages deployment pipelines, cloud infrastructure, and system reliability. Ensures continuous integration and deployment processes run smoothly and securely.the 
+**DevOps Engineer**
+Manages deployment pipelines, cloud infrastructure, and system reliability. Ensures continuous integration and deployment processes run smoothly and securely.
+
 ## 3. Technology Stack
 
 - **Django**: A high-level Python web framework used for building the RESTful API  
